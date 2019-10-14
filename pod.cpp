@@ -18,7 +18,7 @@ std::string Pod::get_name()
 double Pod::get_max_speed()
 {
   /// TASK 2 (PERSON B) ////////////////////////////////////////////////////////
-  return 0;
+  return 400;     // I was going to put a negative number but idk if will give error
   /// END OF TASK 2B ///////////////////////////////////////////////////////////
 }
 
